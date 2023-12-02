@@ -1,7 +1,7 @@
 # MyUniversity
 
 <p align="center">
-  <img src="https://i.imgur.com/AZWmLAd.png" width="200" height ="200">
+  <img src="https://i.imgur.com/RSwYauw.png" width="200" height ="200">
 </p>
 
 <p align="center">
