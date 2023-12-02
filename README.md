@@ -32,6 +32,8 @@
 
 - JSON objects;
 - Free API;
+- RX Java;
+- Retrofit;
 
 Сохранение данных:
 - Room;
