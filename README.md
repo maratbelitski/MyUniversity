@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-   <img src="https://i.imgur.com/bBKLm7z.jpg" width="200" height ="400">
-   <img src="https://i.imgur.com/1Fst35G.jpg" width="200" height ="400">
-   <img src="https://i.imgur.com/ysvxWTD.jpg" width="200" height ="400">
+   <img src="https://i.imgur.com/Dqn9eWd.png" width="200" height ="400">
+   <img src="https://i.imgur.com/eYcWVL3.png" width="200" height ="400">
+   <img src="https://i.imgur.com/VcboMZx.png" width="200" height ="400">
 </p>
 
 # Description
