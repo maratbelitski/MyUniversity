@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyUniversity</string>
+    <string name="error_download">Download error</string>
+    <string name="tittle_spinner">Choose country…</string>
+    <string name="favorite">Favorite</string>
+    <string name="list_empty">This list is empty!</string>
+    <string name="country">COUNTRY:</string>
+    <string name="university">UNIVERSITY:</string>
+    <string name="domain">DOMAIN:</string>
+    <string name="web_page">web page</string>
+</resources>

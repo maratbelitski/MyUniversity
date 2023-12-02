@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyUniversity" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+<!--        <item name="colorPrimary">@color/black</item>-->
+<!--        изменение цвета верхнего тулбара-->
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/orange</item>
+        <item name="android:colorBackground">@color/black</item>
+    </style>
+
+    <style name="MyUniversityOrange" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/orange</item>
+    </style>
+
+    <style name="Theme.MyUniversity" parent="Base.Theme.MyUniversity" />
+</resources>
